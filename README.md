@@ -1,1 +1,1 @@
-# SI_2025_lab2_236023
+Bejza Shashko 236023
