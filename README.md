@@ -6,14 +6,14 @@ Bejza Shashko 236023
 ![CFG](CFG_LAB2.png)
 
 3.
-Цикломатската комплексност ја пресметав со три различни методи, и сите дадоа ист резултат.
-Број на ребра = 38
-Број на јазли = 31
-Cyclomatic complexity = E - N + 2 = 38 - 31 + 2 = 9 
-Cyclomatic complexity = P + 1 = 8 + 1 = 9
-Cyclomatic complexity = R (Regions) = 9
+Цикломатската комплексност ја пресметав со три различни методи, и сите дадоа ист резултат.  
+Број на ребра = 38  
+Број на јазли = 31  
+Cyclomatic complexity = E - N + 2 = 38 - 31 + 2 = 9   
+Cyclomatic complexity = P + 1 = 8 + 1 = 9  
+Cyclomatic complexity = R (Regions) = 9  
 
-Цикломатската комплексност на checkCard е 9.
+Цикломатската комплексност на checkCard е 9.  
 
 
 4.
