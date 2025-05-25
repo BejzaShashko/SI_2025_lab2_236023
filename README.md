@@ -27,3 +27,9 @@ TC6 - тестира валиден предмет без попуст, каде
 
 ![Every Statement criterium](EveryStatement_LAB2.png)
 
+5.
+За условот if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) потребни се 4 тест случаи за да се постигне Multiple Condition criterium:
+TC1 - сите три под-услови да се неточни.
+TC2 - само првиот под-услов да е точен(price > 300)
+TC3 - само вториот под-услов да е точен(discount > 0)
+TC4 - само третиот под-услов да е точен(quantity > 10)
